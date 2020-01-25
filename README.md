@@ -147,7 +147,7 @@ Response body example:
 [
   {
     "service": 1,
-    "name": "라이크리 인스타 좋아요",
+    "name": "인스타그램 리얼 한국인 좋아요",
     "type": "Default",
     "category": "INSTAGRAM",
     "rate": "2",
@@ -156,7 +156,7 @@ Response body example:
   },
   {
     "service": 2,
-    "name": "라이크리 인스타 팔로워",
+    "name": "인스타그램 리얼 한국인 팔로워",
     "type": "Default",
     "category": "INSTAGRAM",
     "rate": "10",
@@ -165,7 +165,7 @@ Response body example:
   },
   {
     "service": 3,
-    "name": "라이크리 인스타 댓글",
+    "name": "인스타그램 리얼 한국인 댓글",
     "type": "Custom Comments",
     "category": "INSTAGRAM",
     "rate": "15",
