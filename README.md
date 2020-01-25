@@ -1,6 +1,6 @@
 ## Usage
 
-API URL - http://35.229.88.94/api/v1 (POST)
+API URL - http://35.229.88.94/hello-genie/api/v1 (POST)
 Request body in JSON
 
 200 response code if success. 
