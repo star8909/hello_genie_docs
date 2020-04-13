@@ -121,10 +121,14 @@ Response body example:
     "error": "Not found"
   },
   "00Vvbrnp56fmILhL45pG":{
-    "status": "Completed"
+    "status": "Completed",
+    "remains": "0",
+    "start_count": "0"
   },
   "00Yzopp2219R3ehmsN8s":{
-    "status": "Completed"
+    "status": "Completed",
+    "remains": "0",
+    "start_count": "0"
   }
 }
 ```
