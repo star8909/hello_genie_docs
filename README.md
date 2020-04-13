@@ -12,7 +12,6 @@ Another codes - failed
 Auth key hardcoded:
 
 ``
-m2g2jPhCeRBxfETTyJM38zmXGDsz8Mhz866qjE4uSdsf9ywShecf4FsgVUUfLG65
 ``
 ### Required params for all API methods
 * key - auth key
